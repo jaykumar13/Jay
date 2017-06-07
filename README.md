@@ -1,2 +1,0 @@
-# Jay
-The Newproject
